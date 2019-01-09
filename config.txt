@@ -1,6 +1,6 @@
-token= ๅไว อุ วแสๆ฿ไ ํแว ํ ใสไว฿
-owner=ๅไว วํฯํ ฿ำใ฿ ํ ศไ อวาใ วแฺัี
-prefix=ฯๅ วแศัÝ฿ำ (วแวใั) 
-game= HAWADET SERVER
+token= NTMyNDQ4OTMyMjcwMzA5Mzgy.DxcqBg.0jBMoo7W5N3KO-k74EXeKjlpBBs
+owner=433198762706599936
+prefix=a
+game= ุฑุงููุด โฅ
 stayinchannel=true
 songinstatus=true 
