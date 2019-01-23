@@ -1,6 +1,6 @@
-token= NTMyNDQ4OTMyMjcwMzA5Mzgy.DxcqBg.0jBMoo7W5N3KO-k74EXeKjlpBBs
+token= NTM3NjU2MTAwNzk1ODQyNTc2.Dyoipg.UEOdusz-wMXE-Ej_GjyZcyoVP6A
 owner=433198762706599936
-prefix=a
-game= رانوش ♥
+prefix=e
+game= koty..
 stayinchannel=true
 songinstatus=true 
